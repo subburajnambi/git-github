@@ -1,0 +1,7 @@
+git init
+
+git remote add origin "<link>"
+git remote add origin "https://github.com/subburajnambi/git-github.git"
+
+git pull origin master
+
